@@ -7,7 +7,8 @@
 <p style="color:DarkSlateBlue;font-size:18px;"> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻 I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. I graduated from Ironhack’s Bootcamp in Web development and I studied JAVA and TypesScript, which has helped me to finally reach my dream career as a software engineer. </p>
 
 
-<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=50%>
+<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=70%>
+
 
 <!--
 **Ericazach/ericazach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
