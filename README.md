@@ -1,6 +1,8 @@
-<h1 style="color: DarkSlateBlue; text-align: center"> <img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=50% > Hey There! 🙋🏻‍♀️ </h1> 
+<img align= "right" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=50% > 
 
->## <h3 style="color: DarkSlateBlue; text-align: center">My name is Erica and welcome to my Github</h3>
+>## <h1>Hey There! 🙋🏻‍♀️ </h1> 
+
+>## <h2 style="color: DarkSlateBlue">My name is Erica and welcome to my Github</h2>
 
 <img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=100% align='right'>
 
