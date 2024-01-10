@@ -1,13 +1,8 @@
-<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=30% > 
+<h1 style="color: DarkSlateBlue; text-align: center"> <img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=50% > Hey There! 🙋🏻‍♀️ </h1> 
 
-><h1 style="color:DarkSlateBlue;">Hey There! 🙋🏻‍♀️</h1> 
+>## <h3 style="color: DarkSlateBlue; text-align: center">My name is Erica and welcome to my Github</h3>
 
->## <h2 style="color:DarkSlateBlue;">My name is Erica and welcome to my Github</h2>
-
-<p style="color:DarkSlateBlue;font-size:18px;"> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻 I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. I graduated from Ironhack’s Bootcamp in Web development and I studied JAVA and TypesScript, which has helped me to finally reach my dream career as a software engineer. </p>
-
-
-<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=70%>
+<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=100% align='right'>
 
 
 <!--
