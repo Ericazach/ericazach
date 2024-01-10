@@ -1,13 +1,13 @@
-<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=60%> <h1>Hey There! 🙋🏻‍♀️</h1>
+<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=30%> 
 
-## My name is Erica and welcome to my Github
+><h1>Hey There! 🙋🏻‍♀️</h1> 
+
+>## My name is Erica and welcome to my Github
 
 What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻 I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. I graduated from Ironhack’s Bootcamp in Web development and I studied JAVA and TypesScript, which has helped me to finally reach my dream career as a software engineer. 
 
 
-<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=100%>
-
-
+<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=50%>
 
 <!--
 **Ericazach/ericazach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
