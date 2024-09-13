@@ -22,7 +22,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="node logo"  />
   <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
 </div>
 
@@ -38,7 +38,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Ericazach&theme=tokyonight&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
 </div>
 
