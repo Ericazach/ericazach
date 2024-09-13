@@ -9,7 +9,7 @@
 <h3> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.</h3>
 
 
-<img align= "right" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=250 > 
+<img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 
 <h3 align="left">🛠 Language and tools</h3>
 
