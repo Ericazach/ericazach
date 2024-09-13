@@ -7,7 +7,7 @@
 What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.
 
 
-My Stats 
+<h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ericazach&theme=tokyonight&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
