@@ -1,6 +1,8 @@
 <div>
- <h1 align="left">🙋🏻‍♀️ Hi there!</h1>
- <h2 align="left">✨ My name is Erica and welcome to my Github Page</h2>
+ <div align="left">
+ <h1 >🙋🏻‍♀️ Hi there!</h1>
+ <h2 >✨ My name is Erica and welcome to my Github Page</h2>
+  </div>
 <div align="right">
  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
