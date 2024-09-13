@@ -1,9 +1,8 @@
-<div align="right">
- <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<img align= "right" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=50% > 
 
- 🙋🏻‍♀️ Hi there!
-✨ My name is Erica and welcome to my Github Page
+>## <h1>Hey There! 🙋🏻‍♀️ </h1> 
+
+>## <h2 style="color: DarkSlateBlue">My name is Erica and welcome to my Github Page</h2>
 
 
 
