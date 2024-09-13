@@ -4,7 +4,7 @@
 
 <h2 style="color: DarkSlateBlue">My name is Erica and welcome to my Github Page</h2>
 
-<img align="right" width="200" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" width="200" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1726236720/download_uijwmc.gif"  />
 
 <h3> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.</h3>
 
