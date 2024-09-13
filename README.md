@@ -1,4 +1,4 @@
-<div align="left>
+<div align="left">
 <h1 align="left">🙋🏻‍♀️ Hi there!</h1>
 <h2 align="left">✨ My name is Erica and welcome to my Github Page</h2>
 </div>
