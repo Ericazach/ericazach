@@ -13,16 +13,19 @@ What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍�
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="html logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="css logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="node logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="12" />
+
 </div>
 
 
@@ -33,7 +36,6 @@ What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍�
   <img src="https://streak-stats.demolab.com?user=Ericazach&theme=tokyonight&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
 </div>
 
-<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=60% align= "left" >
 
 <!--
 **Ericazach/ericazach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
