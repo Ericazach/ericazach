@@ -10,7 +10,6 @@
 ##
 ## What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.
 
-##
 
 ###
 
