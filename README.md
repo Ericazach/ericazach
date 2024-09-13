@@ -36,10 +36,10 @@ What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍�
   <img src="https://streak-stats.demolab.com?user=Ericazach&theme=tokyonight&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
 </div>
 
-
+<h3 align="left"> ✉️  Send me a message :</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/erica-sanchez-11725426"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
-  <a><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ericazach@gmail.com&su=SUBJECT&body=BODY "><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="https://www.linkedin.com/in/erica-sanchez-11725426"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   
 </div>
 
