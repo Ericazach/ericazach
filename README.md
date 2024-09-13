@@ -1,8 +1,8 @@
-<img align= "right" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=50% > 
+<img align= "right" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=150 > 
 
->## <h1>Hey There! 🙋🏻‍♀️ </h1> 
+## <h1>Hey There! 🙋🏻‍♀️ </h1> 
 
->## <h2 style="color: DarkSlateBlue">My name is Erica and welcome to my Github Page</h2>
+## <h2 style="color: DarkSlateBlue">My name is Erica and welcome to my Github Page</h2>
 
 
 
