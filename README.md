@@ -1,7 +1,4 @@
-
-
-
-<h1 align="left">🙋🏻‍♀️ Hi there</h1>
+<h1 align="left">🙋🏻‍♀️ Hi there!</h1>
 <h2 align="left">✨ My name is Erica and welcome to my Github Page</h2>
 
 <h3> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.</h3>
@@ -25,8 +22,16 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="50" alt="node logo"  />
   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50" alt="java logo"  />
+  <img width="12" />
 </div>
 
+###
+
+<div align=“left”>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericazach&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 
 <h3 align="left">🔥   My Stats :</h3>
