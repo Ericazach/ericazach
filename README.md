@@ -6,12 +6,6 @@
 
 What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.
 
-<img align= "right" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=40% > 
-
-<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=60% align= "left" >
-
-
-
 
 ## My Stats 
 
@@ -19,6 +13,9 @@ What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍�
   <img src="https://streak-stats.demolab.com?user=Ericazach&theme=tokyonight&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D" height="220" alt="streak graph"  />
 </div>
 
+<img align= "right" src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704905860/partialProfile_l1bqoq.jpg" width=40% > 
+
+<img src="https://res.cloudinary.com/dmpxijzou/image/upload/v1704906130/code1_copy_q5flg5.png" width=60% align= "left" >
 
 <!--
 **Ericazach/ericazach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
