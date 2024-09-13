@@ -1,12 +1,11 @@
-<div>
- <div align="left">
- <h1 >🙋🏻‍♀️ Hi there!</h1>
- <h2 >✨ My name is Erica and welcome to my Github Page</h2>
-  </div>
 <div align="right">
  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
-</div>
+
+ <h1 align="left">🙋🏻‍♀️ Hi there!</h1>
+ <h2 align="left">✨ My name is Erica and welcome to my Github Page</h2>
+
+
 
 <h3> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.</h3>
 
