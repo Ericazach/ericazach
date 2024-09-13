@@ -5,11 +5,12 @@
 <h2 style="color: DarkSlateBlue">✨ My name is Erica and welcome to my Github Page</h2>
 
 
-
-<h3> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.</h3>
-
-
 <img align="right" width="200" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966"  />
+
+<h3 align="left"> What can I tell you about me? I'm a self-confessed technology geek! 👩🏻‍💻  I’m from Argentina 🇦🇷 and living in Spain 🇪🇸. <br> I graduated from Ironhack’s Bootcamp in Web development and I studied Java and TypeScript, which has helped me to finally reach my dream career as a software engineer.</h3>
+
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
