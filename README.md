@@ -7,7 +7,7 @@
 
 <img align="right" width="350" src="https://camo.githubusercontent.com/1effdbbd80ddf745de7ea9e4ba346cc9c8d193f6c5f661ee7a8b145d4c8aaa88/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313430302f302a7942764135436e455833536434616f642e676966"  />
 
-<h3 align="left"> “I’m a self-proclaimed tech geek from Argentina 🇦🇷, now living in Spain 🇪🇸. </br> </br> After graduating from Ironhack’s Web Development Bootcamp and mastering my Java skills, I’m diving into TypeScript as my next challenge. Now, I’m living my dream as a software engineer! </br> </br> In my free time, I build game worlds in Godot—because who doesn’t love mixing work with play? Always excited to keep learning and leveling up!” </h3>
+<h3 align="left"> “I’m a self-proclaimed tech geek! I'm from Argentina 🇦🇷, now living in Spain 🇪🇸. </br> </br> After graduating from Ironhack’s Web Development Bootcamp and mastering my Java skills, I’m diving into TypeScript as my next challenge. Now, I’m living my dream as a software engineer! </br> </br> In my free time, I build game worlds in Godot—because who doesn’t love mixing work with play? Always excited to keep learning and leveling up!” </h3>
 
 
 
